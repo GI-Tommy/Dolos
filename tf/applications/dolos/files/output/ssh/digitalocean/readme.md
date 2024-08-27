@@ -1,0 +1,1 @@
+The generated SSH keys for DigitalOcean will end up in this directory

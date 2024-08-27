@@ -1,0 +1,17 @@
+# Digital Ocean
+#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#
+do_token = ""
+
+# OVH Cloud (OpenStack)
+#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#
+os_user_name = ""
+os_password  = ""
+os_tenant_id = ""
+
+
+# OVH Cloud
+#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#–#
+# Generate OVH tokens here: https://www.ovh.com/auth/api/createToken?GET=/*&POST=/*&PUT=/*&DELETE=/*
+# ovh_application_key    = ""
+# ovh_application_secret = ""
+# ovh_consumer_key       = ""

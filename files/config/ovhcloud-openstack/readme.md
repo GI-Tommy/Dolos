@@ -1,0 +1,1 @@
+Optional config file for OpenStack goes in this directory. The config file can be downloaded from OVHCloud.
